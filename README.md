@@ -1,4 +1,3 @@
 maven
 =====
-
-this is a private maven repository for my jars.
+存放各种代码片段
